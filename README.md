@@ -1,4 +1,4 @@
-## RAG Q&A Chatbot using OpenAI, LangChain, ChromaDB and Gradio
+## RAG Q&A Chatbot using OpenAI, LangChain, FAISS and Gradio
 Retrieval-Augmented Generation(RAG) emerges as a promising approach that handles the limitations of Large Language Models(LLMs) mainly hallucinating information and inconsistent outputs. Using RAG, we can give the model access to specific information that can be used by the model as context to generate responses that are more factually correct and more consistent.
 
 ## OBJECTIVE 👩‍🏫
